@@ -79,17 +79,21 @@ My current goal is to build a **solid engineering foundation** through:
 
 ---
 
-### 🟢 GeeksforGeeks Progress
+---
 
-<p align="left">
-  <a href="https://auth.geeksforgeeks.org/user/your-gfg-username">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-</p>
+### 🟢 GeeksforGeeks
 
-| Platform | Profile | Structured Tracker |
-|----------|----------|-------------------|
-| GeeksforGeeks | [View Profile](https://auth.geeksforgeeks.org/user/your-gfg-username) | [GFG-DSA Repository](https://github.com/kamalesh574/GFG-DSA) |
+[![GFG Profile](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kamalesh574)
+
+📊 Structured & version-controlled problem-solving:
+
+👉 **[GFG-DSA Command Center](https://github.com/kamalesh574/GFG-DSA)**
+
+Maintained with:
+- Automated topic tracking  
+- Difficulty breakdown  
+- Streak calculation  
+- Code tracing & documentation  
 
 > 📌 All GFG problems are documented with:
 > - Java implementation  
