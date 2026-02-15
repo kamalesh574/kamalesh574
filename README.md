@@ -89,7 +89,7 @@ My current goal is to build a **solid engineering foundation** through:
 
 📊 Structured & version-controlled problem-solving:
 
-👉 **[GFG-DSA Journey](https://github.com/kamalesh574/GFG-DSA)**
+👉 **[![GFG Score](https://img.shields.io/badge/GFG-Problem%20Solving%20Journey-0F9D58?style=for-the-badge&logo=geeksforgeeks)](https://github.com/kamalesh574/GFG-DSA)**
 
 
 
@@ -106,9 +106,7 @@ Maintained with:
 > - Complexity analysis  
 > - Version-controlled history
 
-![GFG Score](https://img.shields.io/badge/GFG-Problem%20Solving%20Journey-0F9D58?style=for-the-badge&logo=geeksforgeeks)
 
-![GFG Tracker](https://img.shields.io/badge/GFG-Structured%20DSA%20Tracker-darkgreen?style=for-the-badge)
 
 
 
