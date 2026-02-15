@@ -77,7 +77,6 @@ My current goal is to build a **solid engineering foundation** through:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kamalesh574&theme=dark)
 
-
 ### 🧩 LeetCode Progress
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kamalesh004?theme=dark&font=Karma)
 
