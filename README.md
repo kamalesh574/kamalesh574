@@ -85,9 +85,13 @@ My current goal is to build a **solid engineering foundation** through:
 
 [![GFG Profile](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kamalesh574)
 
+![GFG Dashboard](https://raw.githubusercontent.com/kamalesh574/GFG-DSA/main/gfg-dashboard.svg)
+
 📊 Structured & version-controlled problem-solving:
 
-👉 **[GFG-DSA Command Center](https://github.com/kamalesh574/GFG-DSA)**
+👉 **[GFG-DSA Journey](https://github.com/kamalesh574/GFG-DSA)**
+
+
 
 Maintained with:
 - Automated topic tracking  
