@@ -71,8 +71,8 @@ My current goal is to build a **solid engineering foundation** through:
 ## 📈 Proof of Consistency
 
 ### GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamalesh574&show_icons=true&theme=dark&cache_seconds=1800)
-![GitHub Streak](https://streak-stats.demolab.com?user=kamalesh574&theme=dark)
+![GitHub Stats](github-readme-stats-alpha-cyan-94.vercel.app/api?username=kamalesh574&show_icons=true&theme=dark)
+
 
 ### 🧩 LeetCode Progress
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kamalesh004?theme=dark&font=Karma)
