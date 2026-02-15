@@ -74,8 +74,33 @@ My current goal is to build a **solid engineering foundation** through:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamalesh574&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamalesh574&theme=dark)
 
-### LeetCode Progress
+### 🧩 LeetCode Progress
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kamalesh004?theme=dark&font=Karma)
+
+---
+
+### 🟢 GeeksforGeeks Progress
+
+<p align="left">
+  <a href="https://auth.geeksforgeeks.org/user/your-gfg-username">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
+
+| Platform | Profile | Structured Tracker |
+|----------|----------|-------------------|
+| GeeksforGeeks | [View Profile](https://auth.geeksforgeeks.org/user/your-gfg-username) | [GFG-DSA Repository](https://github.com/kamalesh574/GFG-DSA) |
+
+> 📌 All GFG problems are documented with:
+> - Java implementation  
+> - Step-by-step explanation  
+> - Code tracing  
+> - Complexity analysis  
+> - Version-controlled history
+
+![GFG Score](https://img.shields.io/badge/GFG-Problem%20Solving%20Journey-0F9D58?style=for-the-badge&logo=geeksforgeeks)
+
+![GFG Tracker](https://img.shields.io/badge/GFG-Structured%20DSA%20Tracker-darkgreen?style=for-the-badge)
 
 
 
