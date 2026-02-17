@@ -71,9 +71,7 @@ My current goal is to build a **solid engineering foundation** through:
 ## 📈 Proof of Consistency
 
 ### GitHub Activity
-![Metrics](https://github-readme-stats.vercel.app/api?username=kamalesh574&show_icons=true&theme=dark&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamalesh574&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kamalesh574&theme=dark)
 
