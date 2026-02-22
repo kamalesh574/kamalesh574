@@ -75,18 +75,6 @@ My current goal is to build a **solid engineering foundation** through:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kamalesh574&theme=dark)
 
-### 🧩 LeetCode Progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/kamalesh004?theme=dark&font=Karma)
-
----
-
----
-
-### 🟢 GeeksforGeeks
-
-[![GFG Profile](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kamalesh574)
-
-![GFG Dashboard](https://raw.githubusercontent.com/kamalesh574/GFG-DSA/main/gfg-dashboard.svg)
 
 📊 Structured & version-controlled problem-solving:
 
