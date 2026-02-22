@@ -27,7 +27,7 @@ My current goal is to build a **solid engineering foundation** through:
 | Category | Repository | What It Demonstrates |
 |--------|-----------|---------------------|
 | 🚀 FullStack Projects | `<ProjectName>-FullStack` | Java backend architecture, Springboot, React, Typescript, REST APIs, DB design |
-| 🎨 Frontend | `Frontend-UI-Collection` | Responsive UI components for backend-driven apps |
+| 🎨 Frontend Projects| `Frontend-UI-Collection` | React, Typescript, Tailwind | Responsive UI components for backend-driven apps |
 | ☕ Java Mini Projects | `Java-System-Design-Apps` | OOP, SOLID principles, layered Java architecture |
 | 🧠 Leetcode Practice | `LeetCode-Journal` | Optimized solutions with tracing & complexity |
 | 🔁 GFG Dsa Practice | `GFG-Daily-Practice` | Habit-driven problem solving |
