@@ -26,12 +26,13 @@ My current goal is to build a **solid engineering foundation** through:
 
 | Category | Repository | What It Demonstrates |
 |--------|-----------|---------------------|
-| 🚀 Flagship Project | `<ProjectName>-FullStack` | Java backend architecture, REST APIs, DB design |
-| ☕ Java Systems | `Java-System-Design-Apps` | OOP, SOLID principles, layered Java architecture |
-| 🧠 DSA Practice | `LeetCode-Journal` | Optimized solutions with tracing & complexity |
-| 🔁 Daily Consistency | `GFG-Daily-Practice` | Habit-driven problem solving |
+| 🚀 FullStack Projects | `<ProjectName>-FullStack` | Java backend architecture, Springboot, React, Typescript, REST APIs, DB design |
 | 🎨 Frontend | `Frontend-UI-Collection` | Responsive UI components for backend-driven apps |
-| 🗄️ Databases | `SQL-Query-Handbook` | SQL queries & schema design |
+| ☕ Java Mini Projects | `Java-System-Design-Apps` | OOP, SOLID principles, layered Java architecture |
+| 🧠 Leetcode Practice | `LeetCode-Journal` | Optimized solutions with tracing & complexity |
+| 🔁 GFG Dsa Practice | `GFG-Daily-Practice` | Habit-driven problem solving |
+
+
 
 > 📌 **Pinned Repositories:** Flagship Full Stack · Java System Design · LeetCode Journal
 
