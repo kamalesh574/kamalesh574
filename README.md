@@ -89,7 +89,8 @@ Maintained with:
 - Automated topic tracking  
 - Difficulty breakdown  
 - Streak calculation  
-- Code tracing & documentation  
+- Code tracing & documentation
+  
 
 > 📌 All GFG problems are documented with:
 > - Java implementation  
@@ -116,7 +117,7 @@ Maintained with:
 - Master DSA and core CS fundamentals  
 - Build production-quality Java and full-stack projects  
 - Crack software engineering interviews with confidence  
-- Grow into a strong backend / full-stack engineer  
+- Grow into a strong backend / full-stack developer
 
 ---
 
